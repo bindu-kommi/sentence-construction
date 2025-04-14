@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "sentence": "The ___ dog barked loudly at the ___ mailman.",
+    "blanks": ["___", "___"],
+    "options": ["fluffy", "quickly", "brown", "friendly"],
+    "correctAnswers": ["brown", "friendly"]
+  },
+  {
+    "id": 2,
+    "sentence": "She loves to ___ music and often sings along with her ___.",
+    "blanks": ["___", "___"],
+    "options": ["play", "favorite", "loudly", "guitar"],
+    "correctAnswers": ["play", "favorite"]
+  },
+  {
+    "id": 3,
+    "sentence": "The ___ cat sat ___ on the windowsill.",
+    "blanks": ["___", "___"],
+    "options": ["sleepy", "happily", "small", "quietly"],
+    "correctAnswers": ["sleepy", "quietly"]
+  },
+  {
+    "id": 4,
+    "sentence": "They decided to ___ a picnic in the ___ park.",
+    "blanks": ["___", "___"],
+    "options": ["have", "beautiful", "quickly", "large"],
+    "correctAnswers": ["have", "beautiful"]
+  },
+  {
+    "id": 5,
+    "sentence": "He enjoys reading ___ and learning about ___ cultures.",
+    "blanks": ["___", "___"],
+    "options": ["books", "different", "slowly", "ancient"],
+    "correctAnswers": ["books", "different"]
+  },
+  {
+    "id": 6,
+    "sentence": "The rain fell ___ and created large ___ in the puddles.",
+    "blanks": ["___", "___"],
+    "options": ["heavily", "splashes", "softly", "ripples"],
+    "correctAnswers": ["heavily", "splashes"]
+  },
+  {
+    "id": 7,
+    "sentence": "She wore a ___ dress to the ___ party.",
+    "blanks": ["___", "___"],
+    "options": ["elegant", "formal", "bright", "casual"],
+    "correctAnswers": ["elegant", "formal"]
+  },
+  {
+    "id": 8,
+    "sentence": "The children were ___ playing in the ___ garden.",
+    "blanks": ["___", "___"],
+    "options": ["happily", "sunny", "quietly", "large"],
+    "correctAnswers": ["happily", "sunny"]
+  },
+  {
+    "id": 9,
+    "sentence": "He needed to ___ his car before going on a long ___.",
+    "blanks": ["___", "___"],
+    "options": ["wash", "trip", "quickly", "short"],
+    "correctAnswers": ["wash", "trip"]
+  },
+  {
+    "id": 10,
+    "sentence": "The chef prepared a ___ and ___ meal for the guests.",
+    "blanks": ["___", "___"],
+    "options": ["delicious", "savory", "quickly", "simple"],
+    "correctAnswers": ["delicious", "savory"]
+  }
+]
